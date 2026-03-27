@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![streak](https://streak-stats.demolab.com?user=michalwa&theme=dark&hide_border=true)
+![streak](https://streak-stats.demolab.com?user=michalwa&theme=github-dark-blue&hide_border=true)
 
 ![stats](profile/stats.svg)
 
